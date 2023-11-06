@@ -1,0 +1,8 @@
+! twitter.com
+twitter.com##a[href="/explore"]
+twitter.com##a[href="/settings/monetization"]
+twitter.com##a[href="/i/verified-choose"]
+twitter.com##a[href="/settings/monetization"]
+twitter.com##div:has(> aside[aria-label="プレミアムにサブスクライブ"])
+twitter.com##div:has(> div:has(> section:has(> div[aria-label="タイムライン: トレンド"])))
+twitter.com##div:has(> div:has(> aside[aria-label="おすすめユーザー"]))
