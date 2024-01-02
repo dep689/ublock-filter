@@ -6,3 +6,6 @@ twitter.com##a[href="/settings/monetization"]
 twitter.com##div:has(> aside[aria-label="プレミアムにサブスクライブ"])
 twitter.com##div:has(> div:has(> section:has(> div[aria-label="タイムライン: トレンド"])))
 twitter.com##div:has(> div:has(> aside[aria-label="おすすめユーザー"]))
+
+! youtube.com
+www.youtube.com##ytd-reel-shelf-renderer
