@@ -1,12 +1,23 @@
 # Features
 
-- twitter.com (JP) から以下の機能を非表示にします．
-  - 話題を検索（サイドバー）
-  - プレミアム（サイドバー）
-  - 収益化（サイドバー）
-  - プレミアムにサブスクライブ
-  - いまどうしてる？
-  - おすすめユーザー
+## Twitter (X)
+
+※ [Control Panel for Twitter](https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj) を使う方が何かと便利かも
+
+twitter.com (JP) から以下の機能を非表示にします．
+
+- 話題を検索（サイドバー）
+- プレミアム（サイドバー）
+- 収益化（サイドバー）
+- プレミアムにサブスクライブ
+- いまどうしてる？
+- おすすめユーザー
+
+## YouTube
+
+www.youtube.com から以下の機能を非表示にします．
+
+- 検索結果の Short 動画
 
 # Usage
 
